@@ -1,0 +1,13 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:  hsla(0, 100%, 89%, 0.884);
+}
+
+.form-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(212, 212, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(243, 50, 50);
+}
